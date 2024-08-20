@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @pirasaath
-- 👀 I’m interested in what Science has to bring us 
-- 🌱 I’m currently learning Deep learning
+- 👀 I’m interested in what Data Science has to bring us 
 - 💞️ I’m looking to collaborate on Python and R projects. 
-- 📫 How to reach me: catch me on LinkedIn. 
+- 📫 How to reach me: catch me on LinkedIn: Pera Rajahkumar. 
 
 <!---
 pirasaath/pirasaath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
