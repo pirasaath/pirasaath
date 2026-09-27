@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pirasaath
-- 👀 I’m interested in what Data Science has to bring us 
-- 💞️ I’m looking to collaborate on Python and R projects. 
+- 👀 I’m interested in what Data Science & AI has to bring this world 
+- 💞️ I’m looking to collaborate on AI and Data projects. 
 - 📫 How to reach me: catch me on LinkedIn: Pera Rajahkumar. 
 
 <!---
